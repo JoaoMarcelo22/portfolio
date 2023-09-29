@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #000;
+    color: #fff;
+    padding: 1rem;
+}
+main{
+    padding: 1rem;
+    border: solid  #fff 2px;
+}
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 8px;
+}
+.fotoPerfil{
+    height: 200px;
+    width: 200px;
+    margin: auto;
+    border-radius: 50%;
+}
+h1{
+    text-align: center;
+}
+.contato{
+    border: solid  #fff 2px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+.contato p{
+    font-size: 1rem;
+    margin: .5rem;
+}
+.contato img{
+    height: 1rem;
+    width: 1rem;
+    margin-left: 0.5rem;
+}
+.centralizando {
+    display: flex;
+    align-items: center;
+}
