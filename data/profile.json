@@ -5,73 +5,80 @@
     "location": "Rio de Janeiro - RJ",
     "phone": "(21) 99207-8320",
     "email": "joao.ms.ferreira@hotmail.com",
+    "linkdin":"https://www.linkedin.com/in/joao-marcelo22/",
+    "gitHub":"https://github.com/JoaoMarcelo22",
+    "dockerHub":"https://hub.docker.com/u/joaomarcelo22",
     "skills": {
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/node.svg"
         },
         {
-          "name": "Java",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
-        },
-        {
-          "name": "Angular",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+          "name": "Csharp",
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/csharp.svg"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/react.svg"
         },
         {
-          "name": "Mongodb",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/git.svg"
+        },
+        {
+          "name": "Python",
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/python.svg"
         },
         {
           "name": "Postgresql",
-          "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/postgreSQL.svg"
+        },
+        {
+          "name": "Typescript",
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/ts.svg"
         }
       ],
       "softSkills": [
-        "Empatia",
-        "Liderança",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Organização"
+        "Atendimento ao cliente e acompanhamento de chamados",
+        "Trabalho em equipe com uso de Slack ou Discord, reuniões via Meet",
+        "Organização e amplo conhecimento em metodologias ageis",
+        "Empatica com colegas e clientes",
+        "Flexibilidade"
       ]
     },
     "languages": [
       "Português BR",
-      "Inglês (intermediário)",
-      "Espanhol (intermediário)",
-      "Italiano (iniciante)"
+      "Inglês (básico)"
     ],
     "portfolio": [
       {
-        "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
-        "github": true
+        "name": "Estudo de caso - Covid-19",
+        "url": "https://github.com/JoaoMarcelo22/Covid-19-2020",
+        "github": true,
+        "medium": false
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
-        "github": true
+        "name": "Artigo - Fragilidade tecnológica",
+        "url": "https://medium.com/@joao_marcelo.22/a-fragilidade-tecnol%C3%B3gica-das-infraestruturas-essenciais-da-humanidade-27e2982df59e",
+        "github": true,
+        "medium": false
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
+        "name": "Full Stack Develop (Estágio) / Wilu",
+        "period": "Ago 2022 - Jun 2023",
         "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
+        "name": "Full Stack Develop (Estágio) / Nodis",
+        "period": "Mar 2022 - Jun 2022",
         "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
+        "name": "Atendente / DP/SP",
+        "period": "Abr 2018 - Out 2020",
         "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
       }
     ]
