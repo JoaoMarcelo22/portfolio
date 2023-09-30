@@ -3,13 +3,21 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-color: #000;
+    background-image: url('../icons/finily.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
     color: #fff;
     padding: 1rem;
 }
 main{
     padding: 1rem;
-    border: solid  #fff 2px;
+    border: solid  #ffffff5b 2px;
+    border-radius: 10px;
+    position: relative;
+    background-color: black;
+    opacity: 0.8;
+    z-index: auto;
 }
 header{
     display: flex;
@@ -17,11 +25,16 @@ header{
     align-items: center;
     margin-top: 8px;
 }
+a{
+    text-decoration: none;
+    color: #fff;
+}
 .fotoPerfil{
     height: 200px;
     width: 200px;
     margin: auto;
     border-radius: 50%;
+    z-index: 1;
 }
 h1{
     text-align: center;
@@ -46,4 +59,31 @@ h1{
 .centralizando {
     display: flex;
     align-items: center;
+}
+
+@media only screen and (min-width: 768px){
+    header{
+        flex-direction: row;
+        margin: auto;
+    }
+    .descricao{
+        margin-right: 100px;
+    }
+}
+@media only screen and (min-width: 1025px){
+    header{
+        width: 800px;
+        padding-bottom: 2rem;
+        border: 2px solid white;
+    }
+    .descricao{
+        margin-right: 100px;
+    }
+    
+}
+@media only screen and (min-width: 1277px){
+    main{
+        width: 65vw;
+        margin: auto;
+    }
 }
