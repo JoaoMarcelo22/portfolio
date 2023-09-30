@@ -4,7 +4,6 @@
 }
 body{
     background-image: url('../icons/finily.gif');
-    background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
     color: #fff;
@@ -40,7 +39,6 @@ h1{
     text-align: center;
 }
 .contato{
-    border: solid  #fff 2px;
     margin: auto;
     display: flex;
     flex-direction: column;
@@ -74,10 +72,12 @@ h1{
     header{
         width: 800px;
         padding-bottom: 2rem;
-        border: 2px solid white;
     }
     .descricao{
         margin-right: 100px;
+    }
+    h1{
+        text-align: start;
     }
     
 }
