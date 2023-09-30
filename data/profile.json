@@ -37,6 +37,10 @@
         {
           "name": "Typescript",
           "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/ts.svg"
+        },
+        {
+          "name": "DataScience",
+          "logo": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/dataScience.svg"
         }
       ],
       "softSkills": [
