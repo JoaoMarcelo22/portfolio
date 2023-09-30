@@ -8,6 +8,8 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" 
     integrity="sha512-NhSC1YmyruXifcj/KFRWoC561YpHpc5Jtzgvbuzx5VozKpWvQ+4nXhPdFgmx8xqexRcpAglTj9sIBWINXa8x5w==" 
     crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="icon"
+    href="./data/img/pandemic.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
@@ -54,10 +56,7 @@
             </button>
 
             <div class="content">
-                <ul class="linguages">
-                    <li>Português</li>
-                    <li>Ingles</li>
-                    <li>Espanhol</li>
+                <ul class="linguages" id="profile.languages">
                 </ul>
             </div>
         </section>
@@ -65,21 +64,8 @@
             <button class="trigger" type="button">
                     <h2>Portfólio</h2>
             </button>
-
             <div class="content">
-                <ul class="portifolio">
-                    <li>
-                        <span class="title github">Criando app de agenda</span>
-                        <a target="_blank" href="www.gogle.com">www.gogle.com</a>
-                    </li>
-                    <li>
-                        <span class="title github">Criando app de agenda</span>
-                        <a target="_blank" href="www.gogle.com">www.gogle.com</a>
-                    </li>
-                    <li>
-                        <span class="title github">Criando app de agenda</span>
-                        <a target="_blank" href="www.gogle.com">www.gogle.com</a>
-                    </li>
+                <ul class="portifolio" id="profile.portfolio">
                 </ul>
             </div>
         </section>
@@ -89,35 +75,11 @@
             </button>
 
             <div class="content">
-                <ul class="experience">
-                    <li>
-                        <h3 class="title">DP / SP</h3>
-                        <span class="period">Jan 2018 - out 2020</span>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                            Quibusdam fugiat explicabo quisquam, deleniti tenetur facilis porro 
-                            ad assumenda aspernatur labore min
-                            us blanditiis quis libero deserunt enim similique veniam commodi impedit?</p>
-                    </li>
-                    <li>
-                        <h3 class="title">DP / SP</h3>
-                        <span class="period">Jan 2018 - out 2020</span>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                            Quibusdam fugiat explicabo quisquam, deleniti tenetur facilis porro 
-                            ad assumenda aspernatur labore min
-                            us blanditiis quis libero deserunt enim similique veniam commodi impedit?</p>
-                    </li>
-                    <li>
-                        <h3 class="title">DP / SP</h3>
-                        <span class="period">Jan 2018 - out 2020</span>
-                        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
-                            Quibusdam fugiat explicabo quisquam, deleniti tenetur facilis porro 
-                            ad assumenda aspernatur labore min
-                            us blanditiis quis libero deserunt enim similique veniam commodi impedit?</p>
-                    </li>
+                <ul class="experience" id="profile.professionalExperience">
                 </ul>
             </div>
         </section>
-        <section class="acordeon open">
+        <section class="acordeon">
             <button class="trigger" type="button">
                     <h2>Skills</h2>
             </button>
@@ -125,35 +87,13 @@
             <div class="content">
                 <div class="skills">
                     <section class="tools">
-                        <h3>Soft-skills</h3>
-                        <ul>
-                            <li>
-                                <img src="./assets/icons/csharp.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="./assets/icons/git-hub.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="./assets/icons/git.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="./assets/icons/node.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="./assets/icons/python.svg" alt="">
-                            </li>
-                            <li>
-                                <img src="./assets/icons/postgre.svg" alt="">
-                            </li>
+                        <h3>Hard-skills</h3>
+                        <ul id="profile.skills.hardSkills">
                         </ul>
                     </section>
                     <section class="personal">
-                        <h3>Hard-skills</h3>
-                        <ul>
-                            <li>Liderança</li>
-                            <li>Meczada</li>
-                            <li>Oganização</li>
-                            <li>o brabo</li>
+                        <h3>Foft-skills</h3>
+                        <ul id="profile.skills.softSkills">
                         </ul>
                     </section>
                 </div>
