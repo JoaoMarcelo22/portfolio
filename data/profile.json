@@ -8,6 +8,19 @@
     "linkdin":"https://www.linkedin.com/in/joao-marcelo22/",
     "gitHub":"https://github.com/JoaoMarcelo22",
     "dockerHub":"https://hub.docker.com/u/joaomarcelo22",
+    "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",
+    "education":[
+      {
+        "name":"Ciencia de dados",
+        "period":"Jan 2022 - Dez 2023",
+        "institution":"Cruzeiro do Sul"
+      },
+      {
+        "name":"Analise e desenvolvimento de sistemas",
+        "period":"Fev 2019 - Fev 2021",
+        "institution":"Cruzeiro do Sul"
+      }
+    ],
     "skills": {
       "hardSkills": [
         {
