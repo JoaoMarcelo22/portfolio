@@ -5,9 +5,9 @@
     "location": "Rio de Janeiro - RJ",
     "phone": "(21) 99207-8320",
     "email": "joao.ms.ferreira@hotmail.com",
-    "link":[
+    "social":[
       {
-        "name":"linkdin",
+        "name":"Linkdin",
         "url": "https://www.linkedin.com/in/joao-marcelo22/",
         "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/linkedin.svg"
       },

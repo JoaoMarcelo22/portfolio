@@ -74,14 +74,16 @@ function updateEducation(profileData) {
 }
 function social(profileData){
     const social = document.getElementById('profile.social')
-    social.innerHTML = profileData.link.map(link =>{
+    social.innerHTML = profileData.social.map(social =>{
         return`
-            <img src="${link.icon}" alt="">
-            <p  >
-                <a href="${link.url}">${link.name}</a>
+        <div class="centralizando" >
+            <img src="${social.icon}" alt="">
+            <p>
+                <a href="${social.url}" target="_blank">${social.name}</a>
             </p>
+        </div>
         `
-    })
+    }).join('')
 }
 
 (async () => {
