@@ -9,22 +9,27 @@
       {
         "name":"Junior Developer / Data Scientist",
         "url":"#",
-        "icon":"#"
+        "icon":"#",
+        "link":false
+
       },
       {
         "name":"Rio de Janeiro - RJ",
         "url":"#",
-        "icon":"#"
+        "icon":"#",
+        "link":false
       },
       {
         "name":"(21) 99207-8320",
         "url":"tel: (21) 99207-8320",
-        "icon":"#"
+        "icon":"#",
+        "link":true
       },
       {
         "name":"joao.ms.ferreira@hotmail.com",
         "url":"mailto: joao.ms.ferreira@hotmail.com",
-        "icon":"#"
+        "icon":"#",
+        "link":true
       }
     ],
     "social":[
