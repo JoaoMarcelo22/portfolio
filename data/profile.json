@@ -5,6 +5,28 @@
     "location": "Rio de Janeiro - RJ",
     "phone": "(21) 99207-8320",
     "email": "joao.ms.ferreira@hotmail.com",
+    "info":[
+      {
+        "name":"Junior Developer / Data Scientist",
+        "url":"#",
+        "icon":"#"
+      },
+      {
+        "name":"Rio de Janeiro - RJ",
+        "url":"#",
+        "icon":"#"
+      },
+      {
+        "name":"(21) 99207-8320",
+        "url":"tel: (21) 99207-8320",
+        "icon":"#"
+      },
+      {
+        "name":"joao.ms.ferreira@hotmail.com",
+        "url":"mailto: joao.ms.ferreira@hotmail.com",
+        "icon":"#"
+      }
+    ],
     "social":[
       {
         "name":"Linkdin",
