@@ -9,17 +9,17 @@
       {
         "name":"linkdin",
         "url": "https://www.linkedin.com/in/joao-marcelo22/",
-        "icon": ""
+        "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/linkedin.svg"
       },
       {
         "name":"Git-Hub",
         "url": "https://github.com/JoaoMarcelo22",
-        "icon": ""
+        "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/gitHub2.svg"
       },
       {
         "name":"Docker-Hub",
         "url": "https://hub.docker.com/u/joaomarcelo22",
-        "icon": ""
+        "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/docker2.svg"
       }
     ],
     "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",

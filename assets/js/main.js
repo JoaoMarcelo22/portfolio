@@ -72,6 +72,17 @@ function updateEducation(profileData) {
         `
     }).join('')
 }
+function social(profileData){
+    const social = document.getElementById('profile.social')
+    social.innerHTML = profileData.link.map(link =>{
+        return`
+            <img src="${link.icon}" alt="">
+            <p  >
+                <a href="${link.url}">${link.name}</a>
+            </p>
+        `
+    })
+}
 
 (async () => {
     const profileData = await fetchProfileData()
@@ -82,5 +93,5 @@ function updateEducation(profileData) {
     updatePortfolio(profileData)
     updateEducation(profileData)
     updateProfessionalExperience(profileData)
-
+    social(profileData)
 })()
