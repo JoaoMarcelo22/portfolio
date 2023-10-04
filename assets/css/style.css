@@ -3,7 +3,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body{
-    background-image: url('../icons/finily.gif');
+    background-image: url('https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/finily.gif');
     background-size: cover;
     height: 100vh;
     color: #fff;

@@ -9,26 +9,26 @@
       {
         "name":"Junior Developer / Data Scientist",
         "url":"#",
-        "icon":"#",
+        "icon":"https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/perfil.svg",
         "link":false
 
       },
       {
         "name":"Rio de Janeiro - RJ",
         "url":"#",
-        "icon":"#",
+        "icon":"https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/localizacao.svg",
         "link":false
       },
       {
         "name":"(21) 99207-8320",
         "url":"href='tel: (21) 99207-8320'",
-        "icon":"#",
+        "icon":"https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/numero.svg",
         "link":true
       },
       {
         "name":"joao.ms.ferreira@hotmail.com",
         "url":"href='mailto: joao.ms.ferreira@hotmail.com'",
-        "icon":"#",
+        "icon":"https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/email.svg",
         "link":true
       }
     ],
