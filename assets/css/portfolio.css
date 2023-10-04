@@ -28,7 +28,7 @@
     height: 1rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('../icons/git-hub.svg');
+    background-image: url('https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/gitHub.svg');
     margin-right: 0.5rem;
 }
 .portifolio li a:hover{

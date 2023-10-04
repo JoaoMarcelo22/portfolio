@@ -39,12 +39,12 @@
         "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/linkedin.svg"
       },
       {
-        "name":"Git-Hub",
+        "name":"Git Hub",
         "url": "https://github.com/JoaoMarcelo22",
         "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/gitHub2.svg"
       },
       {
-        "name":"Docker-Hub",
+        "name":"Docker Hub",
         "url": "https://hub.docker.com/u/joaomarcelo22",
         "icon": "https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/docker2.svg"
       }
@@ -52,14 +52,14 @@
     "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",
     "education":[
       {
-        "name":"Ciencia de dados",
+        "name":"Superior - Ciencia de dados",
         "period":"Jan 2022 - Dez 2023",
-        "institution":"Cruzeiro do Sul"
+        "institution":"Universidade Cruzeiro do Sul"
       },
       {
-        "name":"Analise e desenvolvimento de sistemas",
+        "name":"Superior - Analise e desenvolvimento de sistemas",
         "period":"Fev 2019 - Fev 2021",
-        "institution":"Cruzeiro do Sul"
+        "institution":"Universidade Cruzeiro do Sul"
       }
     ],
     "skills": {
@@ -120,8 +120,8 @@
       {
         "name": "Artigo - Fragilidade tecnológica",
         "url": "https://medium.com/@joao_marcelo.22/a-fragilidade-tecnol%C3%B3gica-das-infraestruturas-essenciais-da-humanidade-27e2982df59e",
-        "github": true,
-        "medium": false
+        "github": false,
+        "medium": true
       }
     ],
     "professionalExperience": [
