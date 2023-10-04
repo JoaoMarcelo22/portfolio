@@ -1,3 +1,30 @@
+function updateSocial(profileData){
+    const social = document.getElementById('profile.social')
+    social.innerHTML = profileData.social.map(social =>{
+        return`
+        <div class="centralizando" >
+            <img src="${social.icon}" alt="">
+            <p>
+                <a href="${social.url}" target="_blank">${social.name}</a>
+            </p>
+        </div>
+        `
+    }).join('')
+}
+function updateInfo(profileData){
+    const social = document.getElementById('profile.info')
+    social.innerHTML = profileData.info.map(info =>{
+        const href = info.link ? info.url : '';
+        const str = `<div class="centralizando">
+        <img src="${info.icon}" alt="${info.name}">
+        <p class="localizacao" id="profile.location">   
+            <a ${href}>${info.name}</a>
+        </p>
+    </div>
+        `
+        return str
+    }).join('')
+}
 function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
@@ -72,19 +99,6 @@ function updateEducation(profileData) {
         `
     }).join('')
 }
-function social(profileData){
-    const social = document.getElementById('profile.social')
-    social.innerHTML = profileData.social.map(social =>{
-        return`
-        <div class="centralizando" >
-            <img src="${social.icon}" alt="">
-            <p>
-                <a href="${social.url}" target="_blank">${social.name}</a>
-            </p>
-        </div>
-        `
-    }).join('')
-}
 
 (async () => {
     const profileData = await fetchProfileData()
@@ -95,5 +109,6 @@ function social(profileData){
     updatePortfolio(profileData)
     updateEducation(profileData)
     updateProfessionalExperience(profileData)
-    social(profileData)
+    updateSocial(profileData)
+    updateInfo(profileData)
 })()
