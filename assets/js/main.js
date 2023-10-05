@@ -29,6 +29,10 @@ function updateProfileInfo(profileData) {
     const photo = document.getElementById('profile.photo')
     photo.src = profileData.photo
 }
+function updateGoal(profileData) {
+    const text = document.getElementById('profile.goal')
+    text.innerHTML = profileData.goal
+}
 
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('profile.skills.softSkills')
@@ -64,7 +68,7 @@ function updateProfessionalExperience(profileData) {
             <li>
                 <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
-                <p>${experience.description}</p>
+                <p class="goal">${experience.description}</p>
             </li>
         `
     }).join('')
@@ -93,4 +97,5 @@ function updateEducation(profileData) {
     updateProfessionalExperience(profileData)
     updateSocial(profileData)
     updateInfo(profileData)
+    updateGoal(profileData)
 })()

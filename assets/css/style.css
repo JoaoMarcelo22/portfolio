@@ -5,6 +5,7 @@
 body{
     background-image: url('https://raw.githubusercontent.com/JoaoMarcelo22/portfolio/main/data/img/finily.gif');
     background-size: cover;
+    background-position: 15% 45%;
     height: 100vh;
     color: #fff;
     padding: .75rem;

@@ -12,6 +12,7 @@
 }
 .experience li {
     margin-bottom: 1rem;
+    font-weight: 600;
 }
 
 .experience li .period::before {
