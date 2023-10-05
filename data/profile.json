@@ -52,12 +52,12 @@
     "goal":"Meu grande objetivo é continuar meu aprendizado e atuar com entusiasmo em tecnologias como Next.js/React e React Native. Tenho um foco especial em aprimorar minhas habilidades utilizando o Typescript para o desenvolvimento Front-End e, quem sabe, explorar o C# para o Back-End. Estou sempre em busca de novos desafios e oportunidades para me aprofundar no universo do React e expandir meus conhecimentos no desenvolvimento web. <br/> Gostaria de enfatizar meu desejo em continuar estudando a área de Dados, utilizando Python como linguagem principal, juntamente com uma linguagem de banco de dados, seja ela relacional ou não. Meu objetivo é me tornar um programador Full Stack com ênfase em Dados.",
     "education":[
       {
-        "name":"Superior - Ciencia de dados",
+        "name":"Superior - Ciência de dados",
         "period":"Jan 2022 - Dez 2023",
         "institution":"Universidade Cruzeiro do Sul"
       },
       {
-        "name":"Superior - Analise e desenvolvimento de sistemas",
+        "name":"Superior - Análise e desenvolvimento de sistemas",
         "period":"Fev 2019 - Fev 2021",
         "institution":"Universidade Cruzeiro do Sul"
       }
@@ -128,17 +128,17 @@
       {
         "name": "Full Stack Develop (Estágio) / Wilu",
         "period": "Ago 2022 - Jun 2023",
-        "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+        "description": "Atuei no suporte, sendo o primeiro ponto de contato entre a equipe Tech e o cliente. Como membro da equipe Tech, fui responsável por desenvolver melhorias e fornecer suporte à plataforma. Realizei integrações com o Google Analytics e implementei boas práticas em SEO. Além disso, conduzi integrações com bibliotecas por meio de NPM ou YARN. No lado do Back-end, incluí e atualizei colunas e tabelas. Utilizei tecnologias como Next.js, Node.js, TypeORM, Vercel e TypeScript. Para comunicação, utilizamos ferramentas como Slack, Jira e Meet para reuniões, sempre seguindo o método Scrum."
       },
       {
         "name": "Full Stack Develop (Estágio) / Nodis",
         "period": "Mar 2022 - Jun 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "description": "Atuei como suporte à equipe Tech, com maior foco em estudos e práticas. Pude adquirir conhecimento em lógica de programação com C# e .NET, versionamento Git e GitHub, além de receber uma introdução ao Linux e à estrutura do DevOps. Utilizamos ferramentas como Discord, Jira e Meet, sempre seguindo o método Scrum."
       },
       {
         "name": "Atendente / DP/SP",
         "period": "Abr 2018 - Out 2020",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "description": "Atuava no atendimento direto ou indireto ao cliente, na organização e armazenamento de produtos, além de auxiliar gestores em processos de venda e atendimento de chamados."
       }
     ]
   }
