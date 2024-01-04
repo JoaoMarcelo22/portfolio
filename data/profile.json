@@ -127,6 +127,12 @@
         "url": "https://medium.com/@joao_marcelo.22/a-fragilidade-tecnol%C3%B3gica-das-infraestruturas-essenciais-da-humanidade-27e2982df59e",
         "github": false,
         "medium": true
+      },
+      {
+        "name": "Pokedex",
+        "url": "https://joaomarcelo22.github.io/pokedex/",
+        "github": true,
+        "medium": false
       }
     ],
     "professionalExperience": [
